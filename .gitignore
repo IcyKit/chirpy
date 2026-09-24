@@ -1,1 +1,7 @@
-out
+# Binaries
+/bin/
+/chirpy
+/out
+
+# Local environment
+.env
